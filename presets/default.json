@@ -38,7 +38,10 @@
     ],
     "default_aspect_ratio": "1152*896",
     "checkpoint_downloads": {
-        "juggernautXL_v8Rundiffusion.safetensors": "https://civitai.com/api/download/models/243278?type=Model&format=SafeTensor&size=full&fp=bf16"
+        "juggernautXL_v8Rundiffusion.safetensors": "https://civitai.com/api/download/models/243278?type=Model&format=SafeTensor&size=full&fp=bf16",
+        "Babes XL":"https://civitai.com/api/download/models/243278?type=Model&format=SafeTensor&size=full&fp=bf16"
+        "NewRealityXL": "https://civitai.com/api/download/models/312982?type=Model&format=SafeTensor&size=full&fp=fp16",
+        "AfroditeXL": "https://civitai.com/api/download/models/275776?type=Model&format=SafeTensor&size=full&fp=fp16"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
